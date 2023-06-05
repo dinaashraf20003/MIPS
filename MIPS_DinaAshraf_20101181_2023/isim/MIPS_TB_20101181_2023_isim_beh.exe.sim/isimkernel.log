@@ -1,0 +1,10 @@
+Command line:
+   MIPS_TB_20101181_2023_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57373
+
+Tue May 30 14:17:02 2023
+
+
+ Elaboration Time: 0.03125 sec

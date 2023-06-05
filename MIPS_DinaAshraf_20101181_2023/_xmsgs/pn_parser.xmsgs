@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/ALUCTRL_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/ALU_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/Adder_20101181_20223.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/ControlUnit_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/InstructionMem_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MIPS_Processor_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MUX1_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MUX2_2to1_32bits_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MUX3_2to1_32bits_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MUX4_5to1_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MemoryUnit_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/PC_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/PC_Adder_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/RegFile_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/Shift_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/SignExtend_20101181_2023.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

@@ -1,0 +1,50 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MIPS_TB_20101181_2023_isim_beh.exe" -prj "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MIPS_TB_20101181_2023_beh.prj" "work.MIPS_TB_20101181_2023" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/SignExtend_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/Shift_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/RegFile_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/PC_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MUX4_5to1_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MUX3_2to1_32bits_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MUX2_2to1_32bits_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MUX1_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MemoryUnit_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/InstructionMem_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/ControlUnit_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/ALU_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/ALUCTRL_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/Adder_20101181_20223.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MIPS_Processor_20101181_2023.vhd" into library work
+Parsing VHDL file "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MIPS_TB_20101181_2023.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity PC_20101181_2023 [pc_20101181_2023_default]
+Compiling architecture behavioral of entity Adder_20101181_2023 [adder_20101181_2023_default]
+Compiling architecture behavioral of entity InstructionMemory_20101181_2023 [instructionmemory_20101181_2023_...]
+Compiling architecture behavioral of entity ControlUnit_20101181_2023 [controlunit_20101181_2023_defaul...]
+Compiling architecture behavioral of entity Mux4_2to1_5bits_20101181_2023 [mux4_2to1_5bits_20101181_2023_de...]
+Compiling architecture behavioral of entity Mux1_2to1_32bits_20101181_2023 [mux1_2to1_32bits_20101181_2023_d...]
+Compiling architecture behavioral of entity Mux2_2to1_32bits_20101181_2023 [mux2_2to1_32bits_20101181_2023_d...]
+Compiling architecture behavioral of entity Mux3_2to1_32bits_20101181_2023 [mux3_2to1_32bits_20101181_2023_d...]
+Compiling architecture behavioral of entity RegFile_20101181_2023 [regfile_20101181_2023_default]
+Compiling architecture behavioral of entity SignExtend_20101181_2023 [signextend_20101181_2023_default]
+Compiling architecture behavioral of entity Shift_20101181_2023 [shift_20101181_2023_default]
+Compiling architecture behavioral of entity ALUCTRL_20101181_2023 [aluctrl_20101181_2023_default]
+Compiling architecture behavioral of entity ALU_20101181_2023 [alu_20101181_2023_default]
+Compiling architecture behavioral of entity MemoryUnit_20101181_2023 [memoryunit_20101181_2023_default]
+Compiling architecture behavioral of entity MIPS_Processor_20101181_2023 [mips_processor_20101181_2023_def...]
+Compiling architecture behavior of entity mips_tb_20101181_2023
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 36 VHDL Units
+Built simulation executable C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MIPS_TB_20101181_2023_isim_beh.exe
+Fuse Memory Usage: 38256 KB
+Fuse CPU Usage: 468 ms

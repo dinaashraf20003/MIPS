@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MIPS_TB_20101181_2023_isim_beh.exe" -prj "C:/Users/user/Desktop/MIPS_DinaAshraf_20101181_2023/MIPS_TB_20101181_2023_beh.prj" "work.MIPS_TB_20101181_2023" 

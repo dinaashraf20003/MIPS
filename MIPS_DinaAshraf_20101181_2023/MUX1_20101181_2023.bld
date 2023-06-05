@@ -1,0 +1,42 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -i -bm MUX1_TB_20101181_2023.bmm -p
+xa7a100t-csg324-2I MUX1_20101181_2023.ngc MUX1_20101181_2023.ngd
+
+Reading NGO file
+"C:/Users/user/Desktop/MIPS/MIPS_DinaAshraf_20101181_2023/MUX1_20101181_2023.ngc
+" ...
+Gathering constraint information from source properties...
+Done.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Processing BMM file "MUX1_TB_20101181_2023.bmm" ...
+
+WARNING::53 - File 'MUX1_TB_20101181_2023.bmm' is empty or has no BMM content.
+
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 4441316 kilobytes
+
+Writing NGD file "MUX1_20101181_2023.ngd" ...
+Total REAL time to NGDBUILD completion:  4 sec
+Total CPU time to NGDBUILD completion:   4 sec
+
+Writing NGDBUILD log file "MUX1_20101181_2023.bld"...

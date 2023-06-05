@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/user/Desktop/LAB/MIPS_DinaAshraf_20101181_2023/MUX1_20101181_2023.xst" -ofn "C:/Users/user/Desktop/LAB/MIPS_DinaAshraf_20101181_2023/MUX1_20101181_2023.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm MUX1_TB_20101181_2023.bmm -p xa7a100t-csg324-2I MUX1_20101181_2023.ngc MUX1_20101181_2023.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MUX1_20101181_2023_map.ncd MUX1_20101181_2023.ngd MUX1_20101181_2023.pcf 

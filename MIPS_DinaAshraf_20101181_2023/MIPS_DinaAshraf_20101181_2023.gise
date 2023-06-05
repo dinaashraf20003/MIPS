@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="MIPS_DinaAshraf_20101181_2023.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALUCTRL_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ALUCTRL_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ALUCTRL_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALUCTRL_TB_20101181_2023_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ALUCTRL_TB_20101181_2023_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="ALUCTRL_TB_20101181_2023_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALUCTRL_TB_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALU_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ALU_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ALU_20101181_2023.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ALU_TB_20101181_2023_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALU_TB_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Adder_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Adder_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Adder_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ControlUnit_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ControlUnit_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ControlUnit_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ControlUnit_TB_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="InstructionMem_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="InstructionMem_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="InstructionMem_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="InstructionMemory_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="InstructionMemory_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="InstructionMemory_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="InstructionMemory_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MIPS_Processor_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MIPS_Processor_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MIPS_Processor_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MIPS_TB_20101181_2023_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MIPS_TB_20101181_2023_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="MIPS_TB_20101181_2023_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="MUX1_20101181_2023.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="MUX1_20101181_2023.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="MUX1_20101181_2023.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="MUX1_20101181_2023.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="MUX1_20101181_2023.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="MUX1_20101181_2023.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX1_20101181_2023.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX1_20101181_2023.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="MUX1_20101181_2023.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="MUX1_20101181_2023.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="MUX1_20101181_2023_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="MUX1_20101181_2023_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MUX1_20101181_2023_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="MUX1_20101181_2023_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="MUX1_20101181_2023_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX1_TB_20101181_2023_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX1_TB_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX2_2to1_32bits_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX2_2to1_32bits_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MUX2_2to1_32bits_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MemoryUnit_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MemoryUnit_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MemoryUnit_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MemoryUnit_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MemoryUnit_TB_20101181_2023_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MemoryUnit_TB_20101181_2023_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="MemoryUnit_TB_20101181_2023_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MemoryUnit_TB_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux1_2to1_32bits_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Mux1_2to1_32bits_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Mux1_2to1_32bits_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux4_2to1_5bits_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Mux4_2to1_5bits_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Mux4_2to1_5bits_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PC_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="PC_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="PC_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PC_Adder_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="PC_Adder_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="PC_Adder_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RegFile_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="RegFile_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="RegFile_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RegFile_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="RegFile_TB_20101181_2023_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RegFile_TB_20101181_2023_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="RegisterFile_20101181_202.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="RegisterFile_20101181_202.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RegisterFile_20101181_202.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="RegisterFile_20101181_202.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="RegisterFile_20101181_202.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="RegisterFile_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="RegisterFile_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="RegisterFile_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="RegisterFile_20101181_202_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="RegisterFile_20101181_202_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Shift_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Shift_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Shift_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SignExtend_20101181_2023.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SignExtend_20101181_2023.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SignExtend_20101181_2023.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dina.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="dina.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="dina.xst"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1685259944" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1685259944">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1685359971" xil_pn:in_ck="5792636785316439065" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1685359971">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALUCTRL_20101181_2023.vhd"/>
+      <outfile xil_pn:name="ALUCTRL_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="ALU_20101181_2023.vhd"/>
+      <outfile xil_pn:name="ALU_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="Adder_20101181_20223.vhd"/>
+      <outfile xil_pn:name="ControlUnit_20101181_2023.vhd"/>
+      <outfile xil_pn:name="InstructionMem_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MIPS_Processor_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MIPS_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MUX1_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MUX2_2to1_32bits_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MUX3_2to1_32bits_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MUX4_5to1_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MemoryUnit_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MemoryUnit_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="PC_20101181_2023.vhd"/>
+      <outfile xil_pn:name="PC_Adder_20101181_2023.vhd"/>
+      <outfile xil_pn:name="RegFile_20101181_2023.vhd"/>
+      <outfile xil_pn:name="RegFile_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="Shift_20101181_2023.vhd"/>
+      <outfile xil_pn:name="SignExtend_20101181_2023.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1685359947" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-4067202271309140735" xil_pn:start_ts="1685359947">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1685359947" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="1728812396401551021" xil_pn:start_ts="1685359947">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1685274909" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-5464562392749089723" xil_pn:start_ts="1685274909">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1685359971" xil_pn:in_ck="5792636785316439065" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1685359971">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALUCTRL_20101181_2023.vhd"/>
+      <outfile xil_pn:name="ALUCTRL_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="ALU_20101181_2023.vhd"/>
+      <outfile xil_pn:name="ALU_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="Adder_20101181_20223.vhd"/>
+      <outfile xil_pn:name="ControlUnit_20101181_2023.vhd"/>
+      <outfile xil_pn:name="InstructionMem_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MIPS_Processor_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MIPS_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MUX1_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MUX2_2to1_32bits_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MUX3_2to1_32bits_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MUX4_5to1_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MemoryUnit_20101181_2023.vhd"/>
+      <outfile xil_pn:name="MemoryUnit_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="PC_20101181_2023.vhd"/>
+      <outfile xil_pn:name="PC_Adder_20101181_2023.vhd"/>
+      <outfile xil_pn:name="RegFile_20101181_2023.vhd"/>
+      <outfile xil_pn:name="RegFile_TB_20101181_2023.vhd"/>
+      <outfile xil_pn:name="Shift_20101181_2023.vhd"/>
+      <outfile xil_pn:name="SignExtend_20101181_2023.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1685445345" xil_pn:in_ck="5792636785316439065" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-2978038568084549527" xil_pn:start_ts="1685445342">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="MIPS_TB_20101181_2023_beh.prj"/>
+      <outfile xil_pn:name="MIPS_TB_20101181_2023_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1685445357" xil_pn:in_ck="-8708518294420457218" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3998923825240861844" xil_pn:start_ts="1685445357">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="MIPS_TB_20101181_2023_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1685203295" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1685203295">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1685259078" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-5863362800336676778" xil_pn:start_ts="1685259078">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+  </transforms>
+
+</generated_project>

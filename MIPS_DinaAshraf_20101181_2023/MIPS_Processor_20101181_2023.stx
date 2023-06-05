@@ -1,0 +1,99 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/user/Desktop/MIPS/MIPS_DinaAshraf_20101181_2023/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/user/Desktop/MIPS/MIPS_DinaAshraf_20101181_2023/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> Reading design: MIPS_Processor_20101181_2023.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\SignExtend_20101181_2023.vhd" into library work
+Parsing entity <SignExtend_20101181_2023>.
+Parsing architecture <Behavioral> of entity <signextend_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\Shift_20101181_2023.vhd" into library work
+Parsing entity <Shift_20101181_2023>.
+Parsing architecture <Behavioral> of entity <shift_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\RegFile_20101181_2023.vhd" into library work
+Parsing entity <RegFile_20101181_2023>.
+Parsing architecture <Behavioral> of entity <regfile_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\PC_20101181_2023.vhd" into library work
+Parsing entity <PC_20101181_2023>.
+Parsing architecture <Behavioral> of entity <pc_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\MUX4_5to1_20101181_2023.vhd" into library work
+Parsing entity <Mux4_2to1_5bits_20101181_2023>.
+Parsing architecture <Behavioral> of entity <mux4_2to1_5bits_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\MUX3_2to1_32bits_20101181_2023.vhd" into library work
+Parsing entity <Mux3_2to1_32bits_20101181_2023>.
+Parsing architecture <Behavioral> of entity <mux3_2to1_32bits_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\MUX2_2to1_32bits_20101181_2023.vhd" into library work
+Parsing entity <Mux2_2to1_32bits_20101181_2023>.
+Parsing architecture <Behavioral> of entity <mux2_2to1_32bits_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\MUX1_20101181_2023.vhd" into library work
+Parsing entity <Mux1_2to1_32bits_20101181_2023>.
+Parsing architecture <Behavioral> of entity <mux1_2to1_32bits_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\MemoryUnit_20101181_2023.vhd" into library work
+Parsing entity <MemoryUnit_20101181_2023>.
+Parsing architecture <Behavioral> of entity <memoryunit_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\InstructionMem_20101181_2023.vhd" into library work
+Parsing entity <InstructionMemory_20101181_2023>.
+Parsing architecture <Behavioral> of entity <instructionmemory_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\ControlUnit_20101181_2023.vhd" into library work
+Parsing entity <ControlUnit_20101181_2023>.
+Parsing architecture <Behavioral> of entity <controlunit_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\ALU_20101181_2023.vhd" into library work
+Parsing entity <ALU_20101181_2023>.
+Parsing architecture <Behavioral> of entity <alu_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\ALUCTRL_20101181_2023.vhd" into library work
+Parsing entity <ALUCTRL_20101181_2023>.
+Parsing architecture <Behavioral> of entity <aluctrl_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\Adder_20101181_20223.vhd" into library work
+Parsing entity <Adder_20101181_2023>.
+Parsing architecture <Behavioral> of entity <adder_20101181_2023>.
+Parsing VHDL file "C:\Users\user\Desktop\MIPS\MIPS_DinaAshraf_20101181_2023\MIPS_Processor_20101181_2023.vhd" into library work
+Parsing entity <MIPS_Processor_20101181_2023>.
+Parsing architecture <Behavioral> of entity <mips_processor_20101181_2023>.
+
+
+Total REAL time to Xst completion: 4.00 secs
+Total CPU time to Xst completion: 3.19 secs
+ 
+--> 
+
+Total memory usage is 4475772 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

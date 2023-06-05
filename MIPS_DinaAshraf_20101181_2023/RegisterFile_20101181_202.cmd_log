@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/user/Desktop/MIPS/MIPS_DinaAshraf_20101181_2023/RegisterFile_20101181_202.xst" -ofn "C:/Users/user/Desktop/MIPS/MIPS_DinaAshraf_20101181_2023/RegisterFile_20101181_202.syr" 
